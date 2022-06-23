@@ -1,0 +1,62 @@
+
+.hero-banner{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://picsum.photos/2000/1600");
+  height: 80vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 0;
+}
+
+#iconBorder{
+  text-align: center; 
+  padding-top: 20vh;
+}
+
+img.icon{
+  border:4px solid white;
+  border-radius: 50%;
+}
+
+.MMimg{
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+}
+
+#Meet-Me{
+  padding: 50px;
+  color: #0C1618;
+}
+
+.hero-text{
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+  color: white;
+  padding: 10px;
+}
+
+.skill-list{
+background-color:#0C1618;
+color: whitesmoke;
+}
+
+#skills-list{
+  padding: 50px;
+}
+
+
+.skills-wrapper img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transition: all 0.5s;
+}
+
+
